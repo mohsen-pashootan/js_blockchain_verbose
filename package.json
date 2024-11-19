@@ -1,0 +1,12 @@
+{
+  "name": "JavaScript Blockchain",
+  "version": "1.0.0",
+  "description": "Blockchain By Building Your Own In JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
